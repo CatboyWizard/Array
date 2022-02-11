@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://media.discordapp.net/attachments/928388003867541534/936317896181837894/rtKejim.gif?width=879&height=499);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button {
+    border: none;
+    color: maroon;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.button1 {background-color: transparent;}
